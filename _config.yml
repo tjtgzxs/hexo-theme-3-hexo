@@ -26,7 +26,7 @@ link:
     oschina: https://my.oschina.net/yelog
     juejin:
     email: jaytp@qq.com
-    qq: 872336115
+    qq: 387753733
     kugou: https://www.kugou.com/
     neteasemusic: https://music.163.com/#/user/home?id=88151013
 
@@ -34,8 +34,7 @@ link:
 author:
   on: false
   authors:
-    author1: 阁主
-    author2: 小马哥
+    author1: tjtgzxs
 ##############################
 
 # 文章分类设置
@@ -112,7 +111,7 @@ searchAll: true
 copyright: false
 # Copyright info. of post | 文末版权信息
 
-word_count: false
+word_count: true
 # true 开启字数统计
 # 开启此功能需要安装插件 ：在 hexo根目录 执行npm i hexo-wordcount --save
 
