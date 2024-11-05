@@ -1,29 +1,29 @@
 # Why Blog
-## 对博客的理解
-喜欢写Blog的人，会经历三个阶段。
->第一阶段，刚接触Blog，觉得很新鲜，试着选择一个免费空间来写。
+## Understanding of Blogging
+People who like to write blogs will go through three stages.
+>First stage: When first encountering blogs, finding them fresh and exciting, trying to write on a free platform.
 
->第二阶段，发现免费空间限制太多，就自己购买域名和空间，搭建独立博客。
+>Second stage: Discovering the limitations of free platforms, purchasing own domain and hosting to build an independent blog.
 
->第三阶段，觉得独立博客的管理太麻烦，最好在保留控制权的前提下，让别人来管，自己只负责写文章。
+>Third stage: Finding independent blog management too troublesome, preferring to let others manage while retaining control, focusing only on writing articles.
  
-我们每个人的在网络上产生的数据越来越多，这些信息是我们在互联网上存在过的痕迹，值得我们认真对待。但是它们被分散分布在各个网站上。很多时候我们很难将它们聚合在一起，而且各个网站的信息排布方式也没有办法自由控制，所以我们需要一个可以由自己主宰的空间——博客。
+We are generating more and more data online. This information represents our digital footprint on the internet and deserves our serious attention. However, it is scattered across various websites. Often it's difficult to aggregate them together, and we can't freely control how information is arranged on different sites. Therefore, we need a space we can truly control - a blog.
 
-通过博客，我们可以记录自己的生活和成长的轨迹。它不像 Twitter 那样碎片化，也不像 Facebook 那样关系化，它是私人的空间。
+Through blogs, we can record our life journey and growth trajectory. Unlike Twitter's fragmented nature or Facebook's relationship-focused approach, it's a personal space.
 
-## 关于叶落阁
-**叶落阁** 是阁主（杨玉杰）的个人站。
+## About Yelige
+**Yelige** is the personal site of the owner (Yang Yujie).
 
-到目前为止已经写了<code class="article_number"></code>篇文章， 共<code class="site_word_count"></code>字。
+So far, <code class="article_number"></code> articles have been written, totaling <code class="site_word_count"></code> words.
 
-本站访问人数：<code class="site_uv"></code>人次 ， 访问量：<code class="site_pv"></code>次
+Site visitors: <code class="site_uv"></code> unique visitors, Total views: <code class="site_pv"></code> pageviews
 
-## 博客平台
-这个博客通过 [Hexo](https://hexo.io/) 生成，部署在 [GitHub Pages](https://pages.github.com/)主题 [3-hexo](https://github.com/yelog/hexo-theme-3-hexo) 已经在github上开源
+## Blog Platform
+This blog is generated through [Hexo](https://hexo.io/), deployed on [GitHub Pages](https://pages.github.com/), using the [3-hexo](https://github.com/yelog/hexo-theme-3-hexo) theme which is open-sourced on GitHub.
 
-`3-hexo` 主题使用交流可以加 Q群: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e8cf083cc097141eaf323396f1766809b8e90ff00c67bb441898f672892f6904"><img data-ignore border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="3-hexo使用交流" title="3-hexo使用交流"></a>
+For discussions about the `3-hexo` theme, you can join QQ group: <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=e8cf083cc097141eaf323396f1766809b8e90ff00c67bb441898f672892f6904"><img data-ignore border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="3-hexo usage discussion" title="3-hexo usage discussion"></a>
 
-主要功能：
-- 搜索支持文章标题、标签(#标签)、作者(@作者)
-- pad/手机等移动端适配
-- 页面全局快捷键 <a href='http://yelog.org/2017/03/24/3-hexo-shortcuts/'>3-hexo快捷键说明</a>
+Main features:
+- Search supports article titles, tags (#tag), and authors (@author)
+- Adaptation for pad/mobile and other mobile devices
+
